@@ -1,2 +1,3 @@
 # hello-world
-A place for all my ideaas
+A place for all my ideas
+I love music and reading.
